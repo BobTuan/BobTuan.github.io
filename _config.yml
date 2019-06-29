@@ -7,7 +7,7 @@
 
 # Site settings
 title: BobTuan
-brief-intro: Android and Python Coder
+brief-intro: CSer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bobtuan.github.io/" # the base hostname & protocol for your site
 
